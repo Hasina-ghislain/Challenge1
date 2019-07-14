@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="title_activity_about">About ALC</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="user_name">RALEMON Junior</string>
+    <string name="country">Country :</string>
+    <string name="track">Track :</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="slack_username">Slack Username :</string>
+    <string name="track_value">Android</string>
+    <string name="country_value">Madagascar</string>
+    <string name="email_value">ghishasina@yahoo.fr</string>
+    <string name="phone_number_value">+261322598011</string>
+    <string name="email">Email :</string>
+</resources>
